@@ -41,6 +41,12 @@ Examples of unacceptable behavior include:
 * Publishing others' private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Diversity Statement
+
+It is our goal to build a community that is inclusive for everyone and encourages everyone to participate. Despite the fact that we may not be able to satisfy everyone, we agree that everyone is equal. It is expected that participants take responsibility for their mistakes when they commit them. We have a responsibility to listen carefully and respectfully when someone has been harmed or ostracized and to do our best to make things right.
+
+This list is not exhaustive, but we explicitly respect differences in age, gender, gender identity, language, ethnicity, nationality, political beliefs, profession, racial identity, religion, and sexual orientation, as well as socioeconomic status and technical proficiency. Discrimination based on any of the protected characteristics above, including disability, will not be tolerated.
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
